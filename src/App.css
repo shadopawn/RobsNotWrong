@@ -74,6 +74,7 @@
 
 h1{
   font-size: 60px;
+  z-index: 99;
 }
 
 .center-left{
