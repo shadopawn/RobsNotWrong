@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RobsNotWrong/static/css/main.5f361e03.chunk.css",
+    "main.js": "/RobsNotWrong/static/js/main.7d98b81c.chunk.js",
+    "main.js.map": "/RobsNotWrong/static/js/main.7d98b81c.chunk.js.map",
+    "runtime-main.js": "/RobsNotWrong/static/js/runtime-main.d834f035.js",
+    "runtime-main.js.map": "/RobsNotWrong/static/js/runtime-main.d834f035.js.map",
+    "static/js/2.41b387c8.chunk.js": "/RobsNotWrong/static/js/2.41b387c8.chunk.js",
+    "static/js/2.41b387c8.chunk.js.map": "/RobsNotWrong/static/js/2.41b387c8.chunk.js.map",
+    "index.html": "/RobsNotWrong/index.html",
+    "precache-manifest.caa8df9c75ee1d20bfc6ae09b1481309.js": "/RobsNotWrong/precache-manifest.caa8df9c75ee1d20bfc6ae09b1481309.js",
+    "service-worker.js": "/RobsNotWrong/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/RobsNotWrong/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.41b387c8.chunk.js.LICENSE.txt": "/RobsNotWrong/static/js/2.41b387c8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/RobsNotWrong/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d834f035.js",
+    "static/js/2.41b387c8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7d98b81c.chunk.js"
+  ]
+}
