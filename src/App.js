@@ -21,9 +21,11 @@ function App() {
         <h1 className="center-right">EVER</h1>
         <img src={bottomRight} className="bottom-right" alt="rob" />
       </header>
+      <h1 className="quote-heading">welcome to my new website I sold my old website and they changed the name to Google. I don't think it's going to catch on.</h1>
       <p className="quote">"When the maple leaves turn upside down rain's a'comin"<br/>-Robin </p>
       <p className="quote">"If you're not squealin' tires when you parallel park, then you haven't really parallel parked."<br/>-Robin</p>
       <p className="quote">"Guess what Gwynnie, guess what chicken butt"<br/>-Uncle</p>
+      <p className="quote">"with proper momentum anything will fit"<br/>-Robin</p>
     </div>
   );
 }

@@ -95,6 +95,13 @@ h1{
   height: 35%;
 }
 
+.quote-heading{
+  font-size: calc(30px + 2vmin);
+  max-width: 90%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
 .quote{
   font-size: calc(20px + 2vmin);
   max-width: 90%;
