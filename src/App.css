@@ -1,3 +1,7 @@
+html{
+  background-color: #92baf7;
+}
+
 .App {
   background-color: #92baf7;
   text-align: center;
@@ -89,4 +93,11 @@ h1{
   top: 40%;
   right: 20px;
   height: 35%;
+}
+
+.quote{
+  font-size: calc(20px + 2vmin);
+  max-width: 90%;
+  margin: auto;
+  padding-bottom: 20px;
 }
