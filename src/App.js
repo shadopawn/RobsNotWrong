@@ -26,6 +26,7 @@ function App() {
       <p className="quote">"If you're not squealin' tires when you parallel park, then you haven't really parallel parked."<br/>-Robin</p>
       <p className="quote">"Guess what Gwynnie, guess what chicken butt"<br/>-Uncle</p>
       <p className="quote">"with proper momentum anything will fit"<br/>-Robin</p>
+      <p className="quote">"I will eat anyting except reproductive organs and brains"<br/>-Robin</p>
     </div>
   );
 }
